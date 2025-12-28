@@ -1,4 +1,4 @@
-# 👁️ Multimodal Vision AI Chatbot (Project 17)
+# 👁️ Multimodal Vision AI Chatbot
 
 ## 📌 Project Overview
 This repository features a **Multimodal AI Chatbot** built using the **Gemini 2.0 Flash** model. Unlike traditional text-only LLMs, this system integrates **Computer Vision** with **Natural Language Processing**, allowing the AI to "see," reason about, and discuss visual content in real-time. 
